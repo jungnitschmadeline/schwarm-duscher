@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/schwarm-duscher/static/css/main.1fa29a6b.chunk.css",
+    "main.js": "/schwarm-duscher/static/js/main.9cd97c64.chunk.js",
+    "main.js.map": "/schwarm-duscher/static/js/main.9cd97c64.chunk.js.map",
+    "runtime-main.js": "/schwarm-duscher/static/js/runtime-main.827bb6a6.js",
+    "runtime-main.js.map": "/schwarm-duscher/static/js/runtime-main.827bb6a6.js.map",
+    "static/js/2.7356dc4b.chunk.js": "/schwarm-duscher/static/js/2.7356dc4b.chunk.js",
+    "static/js/2.7356dc4b.chunk.js.map": "/schwarm-duscher/static/js/2.7356dc4b.chunk.js.map",
+    "index.html": "/schwarm-duscher/index.html",
+    "precache-manifest.3158e89056129b60cd4c970dd66bc330.js": "/schwarm-duscher/precache-manifest.3158e89056129b60cd4c970dd66bc330.js",
+    "service-worker.js": "/schwarm-duscher/service-worker.js",
+    "static/css/main.1fa29a6b.chunk.css.map": "/schwarm-duscher/static/css/main.1fa29a6b.chunk.css.map",
+    "static/js/2.7356dc4b.chunk.js.LICENSE": "/schwarm-duscher/static/js/2.7356dc4b.chunk.js.LICENSE",
+    "static/media/index.css": "/schwarm-duscher/static/media/WWW.7dba0bbf.png",
+    "static/media/gruppe.6d0bc755.svg": "/schwarm-duscher/static/media/gruppe.6d0bc755.svg",
+    "static/media/gruppe.c754c5b7.svg": "/schwarm-duscher/static/media/gruppe.c754c5b7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.827bb6a6.js",
+    "static/js/2.7356dc4b.chunk.js",
+    "static/css/main.1fa29a6b.chunk.css",
+    "static/js/main.9cd97c64.chunk.js"
+  ]
+}
